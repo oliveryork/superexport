@@ -1,4 +1,4 @@
-var jameson = poop;
+var jameson = poopies;
 return jameson;
 
-//returns poop. Which fits really.
+//returns poopies. Which fits really.
